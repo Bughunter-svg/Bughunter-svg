@@ -20,6 +20,32 @@
 
 <hr />
 
+<!-- INTERACTIVE REPOSITORY GRID -->
+## 📌 Featured Projects
+<div align="center">
+  <!-- Top Left: Embedded Systems / IoT Board Firmware -->
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="Smartwatch Firmware Project" />
+  </a>
+  <!-- Top Right: Cybersecurity / CTF Solves -->
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="CTF Writeups Project" />
+  </a>
+</div>
+<br />
+<div align="center">
+  <!-- Bottom Left: Hardware Automation Scripts -->
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="ESP32 IoT Nodes Project" />
+  </a>
+  <!-- Bottom Right: Custom PCB Layout Schematics -->
+  <a href="https://github.com">
+    <img align="center" src="https://vercel.app" alt="PCB Designs Project" />
+  </a>
+</div>
+
+<hr />
+
 <!-- TECH STACK & ANIMATED BADGES -->
 ## 🛠️ My Toolbox
 <p align="left">
@@ -57,4 +83,3 @@
 <div align="center">
   <img src="https://githubusercontent.com" alt="Snake Animation" width="100%" />
 </div>
-
